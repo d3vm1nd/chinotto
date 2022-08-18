@@ -4,6 +4,6 @@ import java.io.InputStream;
 
 public interface GetInputStreamPort extends Port {
 
-	InputStream get(String url);
+  InputStream get(String url);
 
 }

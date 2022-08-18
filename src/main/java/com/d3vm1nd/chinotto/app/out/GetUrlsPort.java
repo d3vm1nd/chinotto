@@ -4,6 +4,6 @@ import java.util.List;
 
 public interface GetUrlsPort extends Port {
 
-	List<String> get();
+  List<String> get();
 
 }
